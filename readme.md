@@ -43,6 +43,13 @@ After that you can type the forwarding rules to the terminal and hit Enter
 
 In the input above we remove forwarding rule for port 8080 and add a new rule to forward remote 8081 to local 8081
 
+
+Example video:
+
+https://github.com/afikrim/zsh-ssh-tunnel/assets/45133910/aa7c4280-f49d-4d76-822b-846d25ad2d28
+
+
+
 #### Running it in the background
 
 To run the ssh-tunnel command you can just specify the user, host, and forwarding rules
@@ -58,3 +65,9 @@ If you want to add more port or remove any existing port forwarding, you can jus
 ```
 
 In the input above we remove forwarding rule for port 8080 and add a new rule to forward remote 8081 to local 8081
+
+
+Example video
+
+https://github.com/afikrim/zsh-ssh-tunnel/assets/45133910/e5da0caa-e736-4e4d-8eb9-aa77ffd95de9
+
